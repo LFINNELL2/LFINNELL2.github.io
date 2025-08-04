@@ -1,0 +1,19 @@
+body {
+    h1 {
+          background-color: #FFB7D5;
+          color: white; /*Cotton Candy color */
+          font-size: 50px;
+        }
+}
+
+.float-right-image {
+  float: right;
+  margin-left: 20px; /* Add some margin to the left to create space between the image and text */
+}
+
+.colored-box {
+        background-color: #FFB7D5; /* Sets the background color of the box */
+        padding: 10px;          /* Adds space between the text and the box's edges */
+        border: 3px solid white; /* Adds a border around the box */
+        color: black;           /* Sets the color of the text inside the box */
+}
